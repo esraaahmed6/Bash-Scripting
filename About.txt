@@ -1,0 +1,11 @@
+1-main.sh 
+#this file will get the whole system up.
+
+2-system.sh 
+#this file contains everthing about the system (login and change password).
+
+3-mgroup.sh
+#this file contains everthing about groups.
+
+4-muser.sh
+#this file contains everthing about users. 
