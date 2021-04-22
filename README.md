@@ -1,4 +1,4 @@
-# Shell-Scripting #linux
+# Shell-Script #linux
 To view select menu and choice from it 
 1)Add User : add user in file user with group name and password ,if group name didn't in file group will insert the name first then insert user name
 2)Add Group: add new group in group file 
